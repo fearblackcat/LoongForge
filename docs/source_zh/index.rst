@@ -72,6 +72,7 @@ LoongForge 中文文档
    :caption: 开发指南
 
    advance/support_new_model
+   advance/phyai_bundle_export
 
 .. toctree::
    :maxdepth: 1
